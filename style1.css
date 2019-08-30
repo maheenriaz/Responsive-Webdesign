@@ -1,0 +1,57 @@
+body
+{
+  margin: 15px;
+  padding: 15px;
+}
+p
+{
+    font-family: ariel;
+    text-align: left;
+   
+}
+#center
+{
+    text-align: center;
+}
+img
+{
+    height: 200px;
+}
+.welcome
+{
+    margin: 0px;
+    padding: 0px;
+   height: 0px;
+   margin-top: -48px;
+}
+#summary
+{
+    text-align: left;
+    
+}
+#pic1
+{
+    height: 200px;
+    width:290px;
+}
+#panimg
+{
+    height: 110px;
+    width:150px;
+}
+#img1
+{
+    height: 130px;
+    width:170px; 
+}
+nav
+{
+    margin: 0px;
+    padding: 0px;
+ 
+    
+}
+nav ul li a.active
+{
+    color: green;
+}
